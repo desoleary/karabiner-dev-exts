@@ -66,9 +66,9 @@
                 },
                 "to": [
                   {
-                    "key_code": "semicolon",
+                    "key_code": "1",
                     "modifiers": [
-                      "left_alt"
+                      "right_command"
                     ]
                   }
                 ],
@@ -98,9 +98,9 @@
                 },
                 "to": [
                   {
-                    "key_code": "semicolon",
+                    "key_code": "6",
                     "modifiers": [
-                      "left_shift"
+                      "right_command"
                     ]
                   }
                 ],
