@@ -3,8 +3,8 @@
 #### Features:
 
 - **⇧F8** Chrome Debugger (pause / resume script execute) ≈ F8 ⌘ /
-- **⌥F1** Rubymine (Select In...) 
-- **⇧F6** Rubymine (Rename File...) 
+- **⌘1** Rubymine (Select In...) 
+- **⌘6** Rubymine (Rename File...) 
 
 `vi $HOME/.config/karabiner/karabiner.json` 
 (Replace contents with [this](https://raw.githubusercontent.com/desoleary/karabiner-dev-exts/master/karabiner.json)) 
@@ -13,7 +13,7 @@
 
 FOREACH Goto Rubymine > Preference > Keymap (add shortcut)
   - *Select In..*
-    - Add ⌥F1 [left-alt + F1]
+    - Add ⌘1 [right-command + 1]
   - *Rename file...*
-    - Add ⇧F6 [left-shift + F6]
+    - Add ⌘6 [right-command + 6]
 
