@@ -6,7 +6,7 @@
 - **⌘1** Rubymine (Select In...) 
 - **⌘6** Rubymine (Rename File...) 
 
-`vi $HOME/.config/karabiner/karabiner.json` 
+`subl $HOME/.config/karabiner/karabiner.json` 
 (Replace contents with [this](https://raw.githubusercontent.com/desoleary/karabiner-dev-exts/master/karabiner.json)) 
 
 #### Rubymine required keymap changes
